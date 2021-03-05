@@ -1,6 +1,6 @@
 # my_mr_clean
 
-Analysis of most frequent words in Wikipedia article. As an example: https://en.wikipedia.org/wiki/Ozone_layer
+Analysis of the most frequent words in Wikipedia article. As an example: https://en.wikipedia.org/wiki/Ozone_layer
 
 The result:
 
